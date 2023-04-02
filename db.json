@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,58 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "data": {
+        "dogName": "Byron",
+        "dogBreed": "Poodle"
+      },
+      "id": 7
+    },
+    {
+      "formData": {
+        "dogName": "Byron",
+        "dogBreed": "Poodle"
+      },
+      "id": 8
+    },
+    {
+      "formData": {
+        "dogName": "Byron",
+        "dogBreed": "Poodle"
+      },
+      "id": 9
+    },
+    {
+      "formData": {
+        "dogName": "Byron",
+        "dogBreed": "Poodle"
+      },
+      "id": 10
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +71,81 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "formData": {
+        "name": "Byron",
+        "email": "Poodle"
+      },
+      "id": 1
+    },
+    {
+      "formData": {
+        "name": "Byron",
+        "email": "Poodle"
+      },
+      "id": 2
+    },
+    {
+      "formData": {
+        "name": "Byron",
+        "email": "Poodle"
+      },
+      "id": 3
+    },
+    {
+      "formData": {
+        "name": "Byron",
+        "email": "Poodle"
+      },
+      "id": 4
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 5
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 6
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 7
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 8
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 9
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 10
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 11
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 12
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
